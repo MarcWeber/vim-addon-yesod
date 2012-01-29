@@ -1,0 +1,7 @@
+{
+  "dependencies" : {
+    "vim-addon-async": {},
+    "vim-addon-actions": {},
+  },
+  "description" : "haxe completion for Vim"
+}
